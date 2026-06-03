@@ -1,38 +1,23 @@
-# cpp-learning-journey
 # C++ Learning Journey
 
-Welcome to my C++ learning repository.
+Welcome to my C++ Learning Journey repository.
 
-This repository documents my progress as I learn C++ programming, starting with the fundamentals and gradually moving toward Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), and projects.
+This repository contains programs, exercises, and projects created while learning C++ programming. The purpose of this repository is to document my learning process and strengthen my understanding of programming concepts through practical implementation.
 
-## Topics Covered
+## Repository Structure
 
-### C++ Basics
+### Programming Fundamentals
 
-* Variables and Data Types
-* Input and Output
-* Conditional Statements
-* Nested If-Else
+Core programming concepts and problem-solving exercises.
 
-### Current Programs
+### OOP
 
-* Admission Eligibility System
-* Employee Bonus Calculator
-* Traffic Fine System
-* Gaming Rank System
-* Scholarship Eligibility System
+Programs related to Object-Oriented Programming concepts such as classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
 
-## Goals
+### DSA
 
-* Build strong programming fundamentals
-* Master Object-Oriented Programming
-* Learn Data Structures and Algorithms
-* Develop problem-solving skills
-* Build real-world projects
+Implementations of Data Structures and Algorithms along with problem-solving practice.
 
-## Progress
+## Goal
 
-* ✅ If-Else Statements
-* ✅ Nested If-Else
-
-
+To build a strong foundation in programming, improve problem-solving skills, and develop the knowledge required to create efficient and maintainable software using C++.
